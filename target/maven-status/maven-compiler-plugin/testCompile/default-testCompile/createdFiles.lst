@@ -1,0 +1,7 @@
+cn\com\service\NoticeServiceTest.class
+cn\com\service\impl\GameServiceImplTest.class
+cn\com\dao\GameAreaMapperTest.class
+cn\com\service\OrderServiceTest.class
+cn\com\service\ReportServiceTest.class
+cn\com\dao\GameMapperTest.class
+cn\com\service\ProductServiceTest.class
